@@ -1,1 +1,1 @@
-[Resume]()https://gjsimkins.github.io/resume/
+[Resume](https://gjsimkins.github.io/resume/)
